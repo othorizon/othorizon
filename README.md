@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 正在学习 游戏开发
 - 📫 可以给我发邮件 <support@rizon.work>
 
-[![Rizon's github stats](https://github-readme-stats.vercel.app/api?username=othorizon)](https://github.com/anuraghazra/github-readme-stats)
+[![Rizon's github stats](https://github-readme-stats.vercel.app/api?username=othorizon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
