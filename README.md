@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+我正在开发一款基于AI的智能收藏夹工具，如果你有兴趣，请为我投票  
+<a href="https://www.producthunt.com/posts/justmark-ai-zero-burden-bookmark?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-justmark&#0045;ai&#0045;zero&#0045;burden&#0045;bookmark" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=440961&theme=light" alt="JustMark&#0032;&#0045;&#0032;AI&#0032;Zero&#0045;Burden&#0032;&#0032;Bookmark - Zero&#0045;Burden&#0058;One&#0045;Click&#0032;Save&#0044;Auto&#0045;Categorize&#0044;Semantic&#0032;Search | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>   
 
-- 🌱 正在学习 游戏开发
+------
+
+- 🌱 正在努力开发产品
 - 📫 可以给我发邮件 <support@rizon.work>
 
 [![Rizon's github stats](https://github-readme-stats.vercel.app/api?username=othorizon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
