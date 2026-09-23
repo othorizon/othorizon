@@ -1,23 +1,36 @@
-### Hi there 👋
-<!--
-**othorizon/othorizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm othorizon 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Building AI products that make information easier to use and ideas easier to explore.**
 
-我正在开发一款基于AI的智能收藏夹工具，如果你有兴趣，请为我投票  
-<a href="https://www.producthunt.com/posts/justmark-ai-zero-burden-bookmark?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-justmark&#0045;ai&#0045;zero&#0045;burden&#0045;bookmark" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=440961&theme=light" alt="JustMark&#0032;&#0045;&#0032;AI&#0032;Zero&#0045;Burden&#0032;&#0032;Bookmark - Zero&#0045;Burden&#0058;One&#0045;Click&#0032;Save&#0044;Auto&#0045;Categorize&#0044;Semantic&#0032;Search | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>   
--->
-------
+正在开发 AI 产品与硬件。
 
-- 🌱 AI 硬件产品创业中
-- 📫 可以给我发邮件 <support@rizon.work>
+</div>
 
+---
+
+### ✨ Projects
+
+**[JustMark](http://justmark.app/)**  
+最简单的零压力 AI 一键收藏夹。  
+*A simple, effortless AI bookmark tool.*
+
+**[AnyToContext](https://anytocontext.com)**  
+把任何资料，变成 AI 的上下文。  
+*Turn anything into context for AI.*
+
+**[Noteloom](https://noteloom.app/)**  
+编织 AI，不止于对话。一个节点式在线 Agent 平台。  
+*Explore ideas with AI on a node-based canvas.*
+
+---
+
+### 🌱 What I'm working on
+
+AI 硬件产品创业中。  
+*Currently building an AI hardware product.*
+
+### 📫 Get in touch
+
+欢迎交流：[support@rizon.work](mailto:support@rizon.work)
