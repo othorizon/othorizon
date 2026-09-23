@@ -49,5 +49,5 @@ Building tools for a more thoughtful way to work with AI.
 
 ---
 
-🌱 **Currently building:** 一款面向儿童英语口语练习的 AI 硬件产品。  
+🌱 **Currently building:** AI 教育硬件产品。  
 📫 **Email:** [support@rizon.work](mailto:support@rizon.work)
